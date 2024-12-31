@@ -6,7 +6,7 @@
   <link href="https://wuyun-me.github.io/atom.xml" rel="self"/>
   
   <link href="https://wuyun-me.github.io/"/>
-  <updated>2024-12-30T05:10:41.292Z</updated>
+  <updated>2024-12-31T02:39:17.521Z</updated>
   <id>https://wuyun-me.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【2025最新】Overleaf是什么？Overleaf 如何升级到标准版/专业版？</title>
+    <link href="https://wuyun-me.github.io/share/overleaf_dup/"/>
+    <id>https://wuyun-me.github.io/share/overleaf_dup/</id>
+    <published>2024-12-31T02:10:13.027Z</published>
+    <updated>2024-12-31T02:39:17.521Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Overleaf介绍"><a href="#Overleaf介绍" class="headerlink" title="Overleaf介绍"></a>Overleaf介绍</h2><p><span style="font-size: 20px;">Overleaf是一个使用<strong>LaTeX</strong>进行多人协同编辑的平台，可以免费注册和使用，不用下载LaTeX软件，是最为著名的LaTeX在线协作系统。 LaTeX 是一种广泛使用的排版系统，特别适合于科学文档、学术论文、图书和其他技术文档的编写。</span> </p><p><span style="font-size: 20px;">它最大优势是：<strong>在线编辑、多人共享</strong></span> </p><p><span style="font-size: 20px;">overleaf分为免费版、标准版和专业版三个不同的订阅计划，它们的区别在于合作者的数量和在线编译时长。</span> </p><p><span style="font-size: 20px;">免费版Overleaf限制编译时间为20秒，超出此限制的文档无法编译。相比之下，标准版和专业版的编译时间长达240秒。值得注意的是，之前通过IEEE认证可免费获得专业版Overleaf的方式，已于2024年4月2日被Overleaf官方宣布暂停。</span> </p><h2 id="Overleaf有哪些特点"><a href="#Overleaf有哪些特点" class="headerlink" title="Overleaf有哪些特点"></a>Overleaf有哪些特点</h2><ul><li><span style="font-size: 20px;"><strong>在线协作</strong>：Overleaf 支持多人实时协作，这意味着多个用户可以同时编辑同一个文档，非常适合团队合作。</span> </li><li><span style="font-size: 20px;"><strong>模板库</strong>：Overleaf 提供了大量的文档模板，包括期刊文章、会议论文、简历、报告、书籍等，用户可以直接使用这些模板开始编写文档。</span> </li><li><span style="font-size: 20px;"><strong>版本控制</strong>：Overleaf 自动保存文档的版本历史，用户可以轻松回滚到之前的版本。</span> </li><li><span style="font-size: 20px;"><strong>实时预览</strong>：编辑 LaTeX 文档时，Overleaf 提供实时的文档预览，让用户即时看到排版效果。</span> </li><li><span style="font-size: 20px;"><strong>集成编译器</strong>：Overleaf 内置了 LaTeX 编译器，用户无需在本地安装任何软件即可编译文档。</span> </li><li><span style="font-size: 20px;"><strong>云存储</strong>：文档存储在云端，可以随时随地访问，并且支持从其他云服务或本地计算机导入和导出文档。</span> </li><li><span style="font-size: 20px;"><strong>丰富的功能</strong>：Overleaf 支持 LaTeX 的所有功能，包括插入图片、表格、数学公式、参考文献等。</span> </li><li><span style="font-size: 20px;"><strong>教育支持</strong>：Overleaf 为教育机构提供特殊支持，包括免费的教育版和专业版，供教师和学生使用。</span></li></ul><h2 id="Overleaf怎样升级到标准版-专业版"><a href="#Overleaf怎样升级到标准版-专业版" class="headerlink" title="Overleaf怎样升级到标准版&#x2F;专业版"></a>Overleaf怎样升级到标准版&#x2F;专业版</h2><p><span style="font-size: 20px;">1. 注册一个Overleaf账号</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/13-2.1.png"></p><p><span style="font-size: 20px;">2. 然后选择你要升级的套餐，标准版年付199刀。当然月付也行，但要21刀&#x2F;每月。</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/13.1.png"></p><p><span style="font-size: 20px;"> 3. 最后填写支付信息，估计很多人没有国外的信用卡，这里可以使用虚拟信用卡 WildCard 来支付。<span style="font-size: 20px; color: green;"> 可以看看wildcard开通教程: <a href="https://wuyun-me.github.io/share/wildcard/">WildCard是什么？怎样使用WildCard订阅国外服务？</a></span> </p><p><span style="font-size: 20px;"> 4. 将 wildcard 的卡片信息对应填入即可开通。</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/13-2.2.png"><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/13.4.png"></p><p><span style="font-size: 20px;">5. 至此，就可以愉快地使用更强大的OverLeaf了。</span> </p><div style="font-size:20px; text-align: center;">~~~Enjoy The Overleaf Now!~~~</div><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p><span style="font-size: 20px;">亲爱的读者你好！<strong>我是AIGC探秘局</strong>。</span></p><p><span style="font-size: 20px;">欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/4A7F2E4E7A9BEF90A920BAD4148F1CE2.jpg"></p><script src="https://utteranc.es/client.js"        repo="wuyun-me/comment-hexo"        issue-term="pathname"        theme="github-light"        crossorigin="anonymous"        async></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Overleaf介绍&quot;&gt;&lt;a href=&quot;#Overleaf介绍&quot; class=&quot;headerlink&quot; title=&quot;Overleaf介绍&quot;&gt;&lt;/a&gt;Overleaf介绍&lt;/h2&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Overlea</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>【2025最新】5分钟开通 windsurf Pro 详细教程</title>
@@ -395,26 +415,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;【重要】【保姆级】Poe订阅问题看这一篇就够了！&quot;&gt;&lt;a href=&quot;#【重要】【保姆级】Poe订阅问题看这一篇就够了！&quot; class=&quot;headerlink&quot; title=&quot;【重要】【保姆级】Poe订阅问题看这一篇就够了！&quot;&gt;&lt;/a&gt;【重要】【保姆级】Poe订阅</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>【重要】wildcard是什么？如何用wildcard订阅国外服务？Wildcard靠谱吗？</title>
-    <link href="https://wuyun-me.github.io/share/wildcard/"/>
-    <id>https://wuyun-me.github.io/share/wildcard/</id>
-    <published>2024-12-04T00:41:57.859Z</published>
-    <updated>2024-12-30T04:40:58.022Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="【重要】Wildcard-使用教程？如何用-Wildcard-订阅国外服务？"><a href="#【重要】Wildcard-使用教程？如何用-Wildcard-订阅国外服务？" class="headerlink" title="【重要】Wildcard 使用教程？如何用 Wildcard 订阅国外服务？"></a>【重要】Wildcard 使用教程？如何用 Wildcard 订阅国外服务？</h1><h2 id="1-什么是虚拟信用卡"><a href="#1-什么是虚拟信用卡" class="headerlink" title="1. 什么是虚拟信用卡"></a>1. 什么是虚拟信用卡</h2><p><span style="font-size: 20px;"> &nbsp; &nbsp; &nbsp; &nbsp;WildCard 虚拟信用卡是一种提供 快速、安全的 在线支付解决方案。支持通过 云闪付充值，不收取消费 和 提现手续费等，特设美国网络环境和英国手机号服务，以及直接客服支持，适合全球业务需求。</span></p><p><span style="font-size: 20px;">&nbsp;&nbsp; &nbsp; &nbsp;简单来说，如果你订阅国外的服务（如 ChatGPT），需要用到国外的信用卡。而 Wildcard 就可以给你提供一个国外的虚拟信用卡，让你可以去订阅相关服务。</span></p><h2 id="2-如何开通虚拟卡"><a href="#2-如何开通虚拟卡" class="headerlink" title="2. 如何开通虚拟卡"></a>2. 如何开通虚拟卡</h2><p><span style="font-size: 20px;"> 开通步骤如下：</span></p><p><span style="font-size: 20px;">1. 首先点击链接进入：<a href="https://bewildcard.com/i/I1QPSWPD">WildCard 一分钟开卡，轻松订阅海外软件服务</a></span></p><p><span style="font-size: 20px;">2. 进入网站首页之后，点击立即体验。</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa1.jpg"></p><p><span style="font-size: 20px;">3. 然后点击WIldCard这一栏，这一栏进去后是开通虚拟信用卡的</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa2.jpg"></p><p><span style="font-size: 20px;">4. 点击开通会员</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa3.jpg"></p><p><span style="font-size: 20px;">5. 然后输入你的手机号码接收验证码 （使用邀请码 <span style="font-size: 23px; color: green;"> <code>I1QPSWPD</code> </span> 可以在开卡时优惠2美元！！！）</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa4.jpg"></p><p><span style="font-size: 20px;">6. 然后填写你的个人信息</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa5.jpg"></p><p><span style="font-size: 20px;">7. 点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa6.jpg"></p><p><span style="font-size: 20px;">8. 支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。此外，输入邀请码:<span style="font-size: 23px; color: green;"> <code>I1QPSWPD</code> </span> 可以得到2美金优惠.</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/1.e.1.png"></p><p><span style="font-size: 20px;">9. 支付之后需要几分钟的时间等待开通成功。开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。<br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/aa7.jpg"></span></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p><span style="font-size: 20px;">开卡网站：<a href="https://bewildcard.com/i/I1QPSWPD">WildCard 一分钟开卡，轻松订阅海外软件服务</a></span></p><p><span style="font-size: 20px;">总费用：</span></p><p><span style="font-size: 20px;">开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）</span></p><p><span style="font-size: 20px;">你订阅相关服务的费用，比如chatgpt是20美元一个月。</span></p><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p><span style="font-size: 20px;">亲爱的读者你好！<strong>我是AIGC探秘局</strong>。</span></p><p><span style="font-size: 20px;">欢迎扫描二维码关注我们的公众号（最新文章都在公众号里），我将带你从零基础出发，逐步掌握各种AI工具的操作技巧，并为你解读最新的热点新闻！</span><br><img src="https://wuyu-me-1332677345.cos.ap-chengdu.myqcloud.com/4A7F2E4E7A9BEF90A920BAD4148F1CE2.jpg"></p><script src="https://utteranc.es/client.js"        repo="wuyun-me/comment-hexo"        issue-term="pathname"        theme="github-light"        crossorigin="anonymous"        async></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;【重要】Wildcard-使用教程？如何用-Wildcard-订阅国外服务？&quot;&gt;&lt;a href=&quot;#【重要】Wildcard-使用教程？如何用-Wildcard-订阅国外服务？&quot; class=&quot;headerlink&quot; title=&quot;【重要】Wildcard 使用教</summary>
       
     
     
